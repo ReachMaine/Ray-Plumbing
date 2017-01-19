@@ -1,0 +1,392 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Welcome to Ray Plumbing &amp; Heating</title>
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+<style type="text/css">
+.style1 {
+	text-decoration: none;
+}
+</style>
+</head>
+
+<body link="#2C6002" bgcolor="#2C6002" topmargin="0" vlink="#006600" alink="#00CC00">
+<!-- DO NOT MOVE! The following AllWebMenus linking code section must always be placed right AFTER the BODY tag-->
+<!-- ******** BEGIN ALLWEBMENUS CODE FOR raymenu ******** -->
+<script type="text/javascript">var MenuLinkedBy="AllWebMenus [4]",awmMenuName="raymenu",awmBN="656";awmAltUrl="";</script><script charset="UTF-8" src="raymenu.js" type="text/javascript"></script><script type="text/javascript">awmBuildMenu();</script>
+<!-- ******** END ALLWEBMENUS CODE FOR raymenu ******** -->
+
+<div align="left">
+	<table border="0" cellpadding="0" style="border-collapse: collapse" width="975" bordercolor="#000000">
+		<tr>
+			<td>
+			<img border="0" src="images/header.png" width="976" height="104"></td>
+		</tr>
+		<tr>
+			<td background="images/pageback.gif">
+			<div align="center">
+				<table border="0" cellpadding="0" style="border-collapse: collapse" width="976" bordercolor="#000000">
+					<tr>
+						<td width="209" valign="top">
+						<map name="FPMap0">
+						<area href="programs.htm" shape="rect" coords="11, 367, 202, 426">						</map>
+						<img border="0" src="images/menu-back.png" width="209" height="440" usemap="#FPMap0"><div align="right">
+							<table border="0" cellpadding="0" style="border-collapse: collapse" width="150" bordercolor="#000000">
+								<tr>
+									<td>
+									<p align="center"><br>
+									<b><font color="#B90C0E">
+									<a href="heat.htm" class="style1">Our Premier</a><br>
+									<a href="heat.htm" class="style1">Heating
+			Product </a><br>
+									<a href="heat.htm" class="style1">SYSTEM 2000</a><br>
+									<a href="heat.htm">
+									<img border="0" src="photos/system2000.png" width="120" height="140"></a></font></b></td>
+								</tr>
+							</table>
+						</div>
+						</td>
+						<td width="709" valign="top">
+						<div align="center">
+							<table border="0" cellpadding="5" style="border-collapse: collapse" width="709" bordercolor="#000000">
+								<tr>
+									<td width="709" style="font-family: Tahoma; font-size: 10pt" rowspan="2">
+			<blockquote>
+          <blockquote>
+			<p class="MsoNormal" align="center"><font size="5"><b>Portable 
+			Toilet Rental Request</b></font></p>
+			<p class="MsoNormal" align="left">We are happy to do free estimates on portable toilet rental needs. You can submit your inquires by email or you can complete 
+          this form and then print it out and mail it to Ray Plumbing and Heating, P.O. Box 588, Ellsworth Maine 04605; FAX 
+			to 667-8091or 
+			just call us at 207-667-5536.</p>
+			</blockquote>
+                  <div align="center">
+                    <table border="0" cellpadding="0" style="border-collapse: collapse" width="550" id="table6" bordercolor="#2F600B">
+                      <tr>
+                        <td>
+                        <form action="cgi-sys/formmail.pl" method="POST" name="Porta-Pottie Estimate Form">
+                  <input name="recipient" type="hidden" value="info@rayplumbing.com">
+                  <input name="redirect" type="hidden" value="http://rayplumbing.com/thankyou.html">
+                          <table border="0" cellpadding="3" cellspacing="0" width="550">
+							<tr>
+		<td colSpan="8">
+		<table id="Table1" cellSpacing="0" cellPadding="0" width="100%" border="0">
+			<tr height="38">
+				<td><font face="tahoma" size="2"><b>
+				Your Name</b></font></td>
+				<td><font face="tahoma">
+				<input id="Forms Edit Field1" maxLength="25" size="25" name="realname"></font></td>
+				<td><b><font face="tahoma" size="2">Organization</font></b></td>
+				<td><font face="tahoma">
+				<input id="FormsEditField2" maxLength="25" size="25" name="organization"></font></td>
+			</tr>
+			<tr height="38">
+				<td><font face="tahoma" size="2"><b>
+				Address</b></font></td>
+				<td><font face="tahoma">
+				<textarea id="Forms Multi-Line1" name="address" wrap="PHYSICAL" cols="23" rows="1"></textarea></font></td>
+				<td><font face="tahoma" size="2"><b>
+				Delivery Address</b></font></td>
+				<td><font face="tahoma">
+				<textarea id="FormsMultiLine2" name="delivery_address" wrap="PHYSICAL" cols="23" rows="1"></textarea></font></td>
+			</tr>
+			<tr height="38">
+				<td><font face="tahoma" size="2"><b>
+				City</b></font></td>
+				<td><font face="tahoma">
+				<input id="FormsEditField3" maxLength="25" size="25" name="city"></font></td>
+				<td><font face="tahoma" size="2"><b>
+				Delivery City</b></font></td>
+				<td><font face="tahoma">
+				<input id="FormsEditField9" maxLength="25" size="25" name="delivery_city"></font></td>
+			</tr>
+			<tr height="24">
+				<td height="38"><font face="tahoma" size="2"><b>
+				State</b></font></td>
+				<td height="38"><font face="tahoma">
+				<input id="FormsEditField4" maxLength="25" size="25" name="state"></font></td>
+				<td height="38"><b><font face="tahoma" size="2">Fax #</font></b></td>
+				<td height="38"><font face="tahoma">
+				<input id="FormsEditField7" maxLength="25" size="25" name="fax"></font></td>
+			</tr>
+			<tr height="24">
+				<td height="38"><font face="tahoma" size="2"><b>
+				Zip</b></font></td>
+				<td height="38"><font face="tahoma">
+				<input id="FormsEditField5" maxLength="25" size="25" name="zip"></font></td>
+				<td height="38"><b><font face="tahoma" size="2">E-mail</font></b></td>
+				<td height="38"><font face="tahoma">
+				<input id="FormsEditField8" maxLength="59" size="25" name="email"></font></td>
+			</tr>
+			<tr height="24">
+				<td height="38"><font face="tahoma" size="2"><b>
+				Phone</b></font></td>
+				<td height="38"><font face="tahoma">
+				<input id="FormsEditField6" maxLength="25" size="25" name="phone"></font></td>
+				<td height="38">
+				<b><font size="2">Type of Event</font></b></td>
+				<td height="38">
+				<font face="tahoma">
+				<input id="FormsEditField10" maxLength="59" size="25" name="type_event"></font></td>
+			</tr>
+			<tr height="24">
+				<td colspan="4" height="26">
+				<p align="center">
+				<span style="text-decoration: none; font-weight: 700; text-transform: uppercase">
+				<font size="2"><a href="portable.htm#Usage_Chart_">
+				<span style="text-decoration: none">Refer to usage chart to 
+				plan your needs.</span></a></font></span></td>
+			</tr>
+		</table>
+								</td>
+							</tr>
+							<tr>
+		<td>&nbsp;</td>
+		<td width="254" colSpan="2">
+		<table id="Table2" cellSpacing="0" cellPadding="0" width="100%" border="0">
+			<tr height="16">
+				<td colSpan="3"><b><font face="tahoma" size="2">Delivery Date</font></b></td>
+			</tr>
+			<tr height="25">
+				<td align="middle" width="94"><font face="tahoma">
+				<select id="Forms Combo Box1" name="delivery_month">
+				<option value="Month" selected>Month</option>
+				<option value="January">January</option>
+				<option value="February">February</option>
+				<option value="March">March</option>
+				<option value="April">April</option>
+				<option value="May">May</option>
+				<option value="June">June</option>
+				<option value="July">July</option>
+				<option value="August">August</option>
+				<option value="September">September</option>
+				<option value="October">October</option>
+				<option value="November">November</option>
+				<option value="December">December</option>
+				</select><font size="2"> </font></font></td>
+				<td align="middle" width="80"><font face="tahoma">
+				<select id="Forms Combo Box2" name="delivery_day">
+				<option value="Day" selected>Day</option>
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5">5</option>
+				<option value="6">6</option>
+				<option value="7">7</option>
+				<option value="8">8</option>
+				<option value="9">9</option>
+				<option value="10">10</option>
+				<option value="11">11</option>
+				<option value="12">12</option>
+				<option value="13">13</option>
+				<option value="14">14</option>
+				<option value="15">15</option>
+				<option value="16">16</option>
+				<option value="17">17</option>
+				<option value="18">18</option>
+				<option value="19">19</option>
+				<option value="20">20</option>
+				<option value="21">21</option>
+				<option value="22">22</option>
+				<option value="23">23</option>
+				<option value="24">24</option>
+				<option value="25">25</option>
+				<option value="26">26</option>
+				<option value="27">27</option>
+				<option value="28">28</option>
+				<option value="29">29</option>
+				<option value="30">30</option>
+				<option value="31">31</option>
+				</select><font size="2"> </font></font></td>
+				<td align="middle" width="80"><font face="tahoma">
+				<select id="Forms Combo Box3" name="delivery_year" size="1">
+				<option value="Year" selected>Year</option>
+				<option value="2010">2010</option>
+				<option value="2011">2011</option>
+				<option value="2012">2012</option>
+				<option value="2013">2013</option>
+				<option value="2014">2014</option>
+				<option value="2015">2015</option>
+				</select><font size="2"> </font></font></td>
+			</tr>
+		</table>
+		</td>
+		<td>&nbsp;</td>
+		<td width="277" colSpan="2">
+		<table id="Table5" cellSpacing="0" cellPadding="0" width="100%" border="0">
+			<tr height="16">
+				<td width="277"><b><font face="tahoma" size="2">Style of Portable 
+				Restrooms:</font></b></td>
+			</tr>
+			<tr height="25">
+				<td align="left"><font face="tahoma">
+				<select id="Forms Combo Box11" name="unit_style" size="1">
+				<option value="Style of unit" selected>Style</option>
+				<option value="Construction">Construction
+				</option>
+				<option value="Standard/Basic">Standard/Basic</option>
+				<option value="ADA Handicap">ADA Handicap</option>
+				<option value="Wedding Set">
+				Wedding Set</option>
+				<option value="Comfort Station">Comfort Station</option>
+				<option value="Weekend Rental">Weekend Rental</option>
+				</select><b><font size="2"> </font></b></font></td>
+			</tr>
+		</table>
+		</td>
+		<td colSpan="2">&nbsp;</td>
+							</tr>
+							<tr>
+		<td>&nbsp;</td>
+		<td width="252">
+		<table id="Table12" cellSpacing="0" cellPadding="0" width="100%" border="0">
+			<tr height="16">
+				<td colSpan="3"><b><font face="tahoma" size="2">Pickup Date</font></b></td>
+			</tr>
+			<tr align="left" height="25">
+				<td align="middle" width="94"><font face="tahoma">
+				<select id="FormsComboBox19" name="pickup_month">
+				<option value="Month" selected>Month</option>
+				<option value="January">January</option>
+				<option value="February">February</option>
+				<option value="March">March</option>
+				<option value="April">April</option>
+				<option value="May">May</option>
+				<option value="June">June</option>
+				<option value="July">July</option>
+				<option value="August">August</option>
+				<option value="September">September</option>
+				<option value="October">October</option>
+				<option value="November">November</option>
+				<option value="December">December</option>
+				<option value="call">Call</option>
+				</select><b><font size="2"> </font></b></font></td>
+				<td align="middle" width="81"><font face="tahoma">
+				<select id="FormsComboBox20" name="pickup_day">
+				<option value="Day" selected>Day</option>
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5">5</option>
+				<option value="6">6</option>
+				<option value="7">7</option>
+				<option value="8">8</option>
+				<option value="9">9</option>
+				<option value="10">10</option>
+				<option value="11">11</option>
+				<option value="12">12</option>
+				<option value="13">13</option>
+				<option value="14">14</option>
+				<option value="15">15</option>
+				<option value="16">16</option>
+				<option value="17">17</option>
+				<option value="18">18</option>
+				<option value="19">19</option>
+				<option value="20">20</option>
+				<option value="21">21</option>
+				<option value="22">22</option>
+				<option value="23">23</option>
+				<option value="24">24</option>
+				<option value="25">25</option>
+				<option value="26">26</option>
+				<option value="27">27</option>
+				<option value="28">28</option>
+				<option value="29">29</option>
+				<option value="30">30</option>
+				<option value="31">31</option>
+				</select><b><font size="2"> </font></b></font></td>
+				<td align="middle" width="77"><font face="tahoma">
+				<select id="FormsComboBox21" name="pickup_year">
+				<option value="Year" selected>Year</option>
+				<option value="2010">2010</option>
+				<option value="2011">2011</option>
+				<option value="2012">2012</option>
+				<option value="2013">2013</option>
+				<option value="2014">2014</option>
+				<option value="2015">2015</option>
+				</select><b><font size="2"> </font></b></font></td>
+			</tr>
+		</table>
+		</td>
+		<td colSpan="2">&nbsp;</td>
+		<td width="259">
+		<table id="Table13" cellSpacing="0" cellPadding="0" width="100%" border="0">
+			<tr height="25">
+				<td align="left"><font face="tahoma">
+				<select id="Forms Combo Box15" name="order_quantity">
+				<option value="Quantity" selected>Quantity</option>
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5">5</option>
+				<option value="6">6</option>
+				<option value="7">7</option>
+				<option value="8">8</option>
+				<option value="9">9</option>
+				<option value="10">10</option>
+				<option value="More than 10">More than 10</option>
+				</select><b><font size="2"> </font></b></font></td>
+			</tr>
+		</table>
+		</td>
+		<td colSpan="3">&nbsp;</td>
+							</tr>
+							<tr>
+		<td colSpan="8" height="54">
+		<font face="tahoma" size="2">Special needs or comments:</font><font face="tahoma"><font size="2"><br>
+		</font>
+		<textarea id="Forms Multi-Line3" name="comments" rows="3" wrap="PHYSICAL" cols="76"></textarea></font></td>
+							</tr>
+							<tr>
+		<td colSpan="8" height="7"></td>
+							</tr>
+							<tr>
+		<td colSpan="7"><font face="tahoma" size="2">
+		<br>
+		Note: In order to guarantee accuracy, estimates are not automatically 
+		confirmed when sent.
+		For your protection estimates do not become orders until faxed, signed, and 
+		confirmed.</font></td>
+		<td>&nbsp;</td>
+							</tr>
+					</table>
+					<p> <input type="submit" value="Submit" name="B3"><input type="reset" value="Reset" name="B4"></p>
+							<input type="hidden" name="subject" value="Web Form _ Request For Portable Toilet Estimate">
+                        </form>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+			</blockquote>
+									</td>
+								</tr>
+								</table>
+						</div>
+						</td>
+						<td width="58">&nbsp;</td>
+					</tr>
+				</table>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td><a href="contact.htm"><img border="0" src="images/footer.png" width="976" height="72"></a></td>
+		</tr>
+	</table>
+</div>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1886699-11";
+urchinTracker();
+</script>
+</body>
+
+</html>
